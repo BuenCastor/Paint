@@ -31,7 +31,7 @@ namespace Paint
  
         private void Paint_Load(object sender, EventArgs e)
         {
-
+            //
             m_filenames = new StringDictionary();
             arraylines = new object[]{0, 1, 2, 3, 4};
 
